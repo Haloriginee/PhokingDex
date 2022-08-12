@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #efefbb;
+  background: linear-gradient(90deg,#283048,#859398);;
 
   font-family: "Lato", sans-serif;
   display: flex;
@@ -49,9 +49,9 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background:  #efefbb;
+  background:  linear-gradient(90deg,#283048,#859398);;
   border-radius: 10px;
-  ;
+  cursor: pointer;
 }
 
 .pokemon {
