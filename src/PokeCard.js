@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 import React from 'react'
 import { nanoid } from 'nanoid'
 import Modal from 'react-bootstrap/Modal'
