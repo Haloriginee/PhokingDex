@@ -31,7 +31,7 @@ function updateGen(start, end) {
     return (
     <div className="App">
       <Header />
-      <Button className='game'href='https://github.com/Haloriginee?tab=repositories'>PokéGame</Button>
+      <Button className='game'href='https://haloriginee.github.io/PokeGame/'>PokéGame</Button>
       <h4>Click the cards to see more detail!</h4>
       <div className="generation-btns">
         <Button className='button' onClick={() => updateGen(1,151)} >Gen 1</Button>
