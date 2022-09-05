@@ -22,6 +22,24 @@ div.Header {
   justify-content: center;
 }
 
+.game {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background-color: #ffcb00 !important;
+  color: #00428a !important;
+  border: 1px solid #00428a !important;
+  font-weight: 700 !important;
+  width: 125px !important;
+  margin-left: 710px !important;
+}
+
+.game:hover {
+  background-color: #00428a !important;
+  color: #d4d3dd !important;
+}
+
 .title_img {
   max-width: 300px;
   margin: 0 auto;
